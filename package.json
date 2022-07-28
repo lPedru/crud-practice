@@ -1,25 +1,19 @@
 {
   "name": "crud-practice",
   "version": "1.0.0",
-  "description": "",
-  "main": "./src/server.js",
+  "description": "Ideas: add a server file and a client file, the client file will have it's own node js server running just to send the static files to the user, then with jquery and ajax, make requests to the server.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lPedru/crud-practice.git"
   },
-  "author": "Pedro Jesus",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lPedru/crud-practice/issues"
   },
-  "homepage": "https://github.com/lPedru/crud-practice#readme",
-  "dependencies": {
-    "express": "^4.18.1",
-    "hbs": "^4.2.0",
-    "nodemon": "^2.0.19"
-  }
+  "homepage": "https://github.com/lPedru/crud-practice#readme"
 }

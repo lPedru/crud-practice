@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lPedru/crud-practice.git"
+  },
+  "author": "Pedro Jesus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lPedru/crud-practice/issues"
+  },
+  "homepage": "https://github.com/lPedru/crud-practice#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.19"
+  }
+}
